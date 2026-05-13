@@ -1,4 +1,4 @@
-# Hack Your Future Belgium – Java Backend Track
+# Hack Your Future Belgium - Java Backend Track
 
 Welcome to the **Java Backend** repository hub for Hack Your Future Belgium.
 
@@ -16,8 +16,9 @@ Throughout this track, students gradually move from:
 - Exception handling, collections, and file I/O
 - Streams, testing, SQL, and multithreading
 - Spring and Spring Boot fundamentals
-- JPA, DTOs, validation, and error handling
-- Security concepts and layered backend project design
+- JPA, DTOs, MapStruct, validation, and error handling
+- Security concepts: Spring Security, JWT authentication, and refresh tokens
+- Capstone project: full layered backend with AOP, security, and token management
 
 ---
 
@@ -35,9 +36,11 @@ Throughout this track, students gradually move from:
 | 8 | Structured Java practice and test-oriented exercises, including JUnit-based examples | [java-week-8](https://github.com/HackYourFutureBelgium/java-week-8) |
 | 9 | Databases in practice: PostgreSQL, JDBC, CRUD operations, and transaction concepts | [java-week-9](https://github.com/HackYourFutureBelgium/java-week-9) |
 | 10 | Maven, external libraries, multithreading, testing practice, and mini-project work | [java-week-10](https://github.com/HackYourFutureBelgium/java-week-10) |
-| 11 | Spring fundamentals, dependency injection, Spring Boot basics, and REST endpoint design | [java-week-11](https://github.com/HackYourFutureBelgium/java-week-11) |
-| 12 | JPA, DTOs, validation, pagination, exception handling, and proper HTTP responses | [java-week-12](https://github.com/HackYourFutureBelgium/java-week-12) |
-| 13 | Security topics, CSRF, layered architecture, and backend application organization | [java-week-13](https://github.com/HackYourFutureBelgium/java-week-13) |
+| 11 | Spring Framework overview, IoC and dependency injection, Spring Boot introduction, REST endpoint design, and Hibernate intermediate topics (relationships, lifecycle callbacks) | [java-week-11](https://github.com/HackYourFutureBelgium/java-week-11) |
+| 12 | Spring Data JPA, DTOs, MapStruct, Lombok, ResponseEntity, HTTP status codes, exception handling, request parameters, and input validation | [java-week-12](https://github.com/HackYourFutureBelgium/java-week-12) |
+| 13 | Cross-cutting concerns, AOP, Spring Security introduction, password hashing with BCrypt, global exception handling, configuration, and application profiles | [java-week-13](https://github.com/HackYourFutureBelgium/java-week-13) |
+| 14 | JWT authentication, user registration and login flows, securing endpoints, CSRF protection, pagination, sorting, and refresh tokens | [java-week-14](https://github.com/HackYourFutureBelgium/java-week-14) |
+| 15 | Capstone movie project: full Spring Boot application built step by step with MapStruct, AOP aspects, Spring Security, JWT filters, and refresh tokens | [java-week-15](https://github.com/HackYourFutureBelgium/java-week-15) |
 
 ---
 
@@ -50,8 +53,9 @@ By the end of this track, students will be able to:
 - Work with files, collections, streams, and concurrency
 - Use relational databases with SQL and JDBC
 - Build REST APIs with Spring Boot
-- Apply DTOs, validation, and exception handling in backend applications
-- Understand security concepts in modern Java backend development
+- Apply DTOs, MapStruct, validation, and exception handling in backend applications
+- Implement Spring Security with JWT authentication and refresh token support
+- Apply AOP for cross-cutting concerns such as logging and security
 
 ---
 
@@ -79,3 +83,5 @@ By the end of this track, students will be able to:
 - [Java Week 11](https://github.com/HackYourFutureBelgium/java-week-11)
 - [Java Week 12](https://github.com/HackYourFutureBelgium/java-week-12)
 - [Java Week 13](https://github.com/HackYourFutureBelgium/java-week-13)
+- [Java Week 14](https://github.com/HackYourFutureBelgium/java-week-14)
+- [Java Week 15](https://github.com/HackYourFutureBelgium/java-week-15)
