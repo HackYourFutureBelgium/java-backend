@@ -31,9 +31,9 @@ Throughout this track, students gradually move from:
 | 3 | OOP deep dive: encapsulation, inheritance, polymorphism, interfaces, constructors, and class design | [java-week-3](https://github.com/HackYourFutureBelgium/java-week-3) |
 | 4 | Exceptions, interfaces, iterators, collections, and writing cleaner, more maintainable Java programs | [java-week-4](https://github.com/HackYourFutureBelgium/java-week-4) |
 | 5 | Generics, file input/output, Java Date-Time API, and collaborative live coding practice | [java-week-5](https://github.com/HackYourFutureBelgium/java-week-5) |
-| 6 | File I/O, streams, lambda expressions, testing fundamentals, serialization, SQL basics, and multithreading | [java-week-6](https://github.com/HackYourFutureBelgium/java-week-6) |
+| 6 | File I/O, streams, lambda expressions, testing fundamentals, serialization, and multithreading | [java-week-6](https://github.com/HackYourFutureBelgium/java-week-6) |
 | 7 | Applied Java practice with projects, resources, and intermediate backend-oriented exercises | [java-week-7](https://github.com/HackYourFutureBelgium/java-week-7) |
-| 8 | Structured Java practice and test-oriented exercises, including JUnit-based examples | [java-week-8](https://github.com/HackYourFutureBelgium/java-week-8) |
+| 8 | Structured Java practice, SQL basics and test-oriented exercises, including JUnit-based examples | [java-week-8](https://github.com/HackYourFutureBelgium/java-week-8) |
 | 9 | Databases in practice: PostgreSQL, JDBC, CRUD operations, and transaction concepts | [java-week-9](https://github.com/HackYourFutureBelgium/java-week-9) |
 | 10 | Maven, external libraries, multithreading, testing practice, and mini-project work | [java-week-10](https://github.com/HackYourFutureBelgium/java-week-10) |
 | 11 | Spring Framework overview, IoC and dependency injection, Spring Boot introduction, REST endpoint design, and Hibernate intermediate topics (relationships, lifecycle callbacks) | [java-week-11](https://github.com/HackYourFutureBelgium/java-week-11) |
